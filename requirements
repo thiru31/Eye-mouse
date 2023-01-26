@@ -1,0 +1,11 @@
+REQUIREMENTS:
+
+ cv2
+   pip install opencv-python
+ 
+ 
+ mediapipe
+ 	pip install mediapipe
+ 	
+ pyautogui
+ 	pip install pyautogui
